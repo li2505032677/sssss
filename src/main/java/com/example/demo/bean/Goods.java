@@ -32,6 +32,7 @@ public class Goods implements Serializable{
 	}
 	public void setGcount(int gcount) {
 		this.gcount = gcount;
+		
 	}
 	public int getSaleCount() {
 		return saleCount;
